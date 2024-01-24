@@ -22,3 +22,7 @@ print(dict_c)
 print(dict_f.items())
 print(dict_M)
 print(dict_W)
+
+list = [1,2,3,4]
+modify_list = [num ** 2 for num in list]
+print(modify_list)
